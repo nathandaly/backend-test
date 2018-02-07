@@ -1,0 +1,5 @@
+.idea
+/vendor/
+/docker/logs/*
+.env
+testdata.json
